@@ -1,3 +1,5 @@
+## NOTE:  Still lots of testing to do, but LCN01 works solid.
+
 # Layout-Control-Nodes
 Model Railroad wireless controls for Scenery
 Taken from an idea presented by https://thenscaler.com/
